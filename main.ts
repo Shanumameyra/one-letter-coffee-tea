@@ -1,4 +1,6 @@
 // One Letter: Coffee or Tea — entry program (program/v1, Node 22).
+// Revision note: single-letter answer, revised once for clarity only;
+// the output byte is unchanged.
 //
 // The gate requires /output/entry.txt to be exactly 1 UTF-8 character,
 // nothing else: no word, no explanation, no punctuation, no newline.
